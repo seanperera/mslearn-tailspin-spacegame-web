@@ -1,3 +1,4 @@
+[![Build Status](https://smartevent360.visualstudio.com/Space%20Game/_apis/build/status/seanperera.mslearn-tailspin-spacegame-web?branchName=master)](https://smartevent360.visualstudio.com/Space%20Game/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
