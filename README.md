@@ -1,3 +1,4 @@
+[![Build Status](https://smartevent360.visualstudio.com/Space%20Game/_apis/build/status/Tailspin%20Space%20Game%20CI?branchName=failed-test)](https://smartevent360.visualstudio.com/Space%20Game/_build/latest?definitionId=9&branchName=failed-test)
 
 # Contributing
 
