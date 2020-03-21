@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'SpaceGameAgentPool'
+  name: 'SpaceGameAgentPool'
   demands:
     - npm
 
